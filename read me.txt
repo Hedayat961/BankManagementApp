@@ -1,0 +1,8 @@
+1. first setup database with name 'assignment1'
+2. run the sql master query file on the database 
+3. now user can login in application with 
+   Username: ali
+   Password: asd123
+
+4. front-end application is configured for port:8080
+5. api-application is configured for port:8084   
